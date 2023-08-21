@@ -1,20 +1,19 @@
-# Nome do projeto
+# Aluguel de Carros
 
 Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
+* Bruna Lopes de Souza
+* Claudio Manoel Jansen de Oliveira
+* Erica Alves dos Santos
 * Nome completo do aluno 4
-* Nome completo do aluno 5
 
 ## Professor
 
-* Nome completo do professor 1
-* Nome completo do professor 2
-* Nome completo do professor 3
+* Danilo Boechat Seufitelli
+* Hugo Bastos de Paula
+* Luiz Henrique da Costa Silva
 
 ## Instruções de utilização
 
